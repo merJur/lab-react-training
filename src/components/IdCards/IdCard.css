@@ -1,0 +1,19 @@
+.Card{
+    border: 1px solid black;
+    margin: 1rem 4rem;
+    width: 30rem;
+}
+.Row{
+    display: flex;
+    flex-direction: row;
+}
+.Card-text{
+    margin-left: 1rem;
+    margin-top: 1rem;
+    line-height: 6px;
+    text-align: start;
+}
+.Card-photo{
+    border: 1px solid black;
+    margin: 1rem;
+}

@@ -1,0 +1,14 @@
+.P-creditCard{
+    width: 20rem;
+    height: 12rem;
+    border: 1px solid black;
+    border-radius: 1rem;
+    margin-left: 4rem;
+}
+
+.Type{
+    margin-left:80%;
+}
+.Rest{
+    margin-left: 1rem;;
+}
